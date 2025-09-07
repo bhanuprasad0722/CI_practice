@@ -28,6 +28,6 @@ jobs:
 
       # run tests
       - name: running tests
-        run: pytest test/test_app.py 
+        run: pytest test/app_test.py 
 
 
